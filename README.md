@@ -22,7 +22,6 @@ A Python automation framework that compares real-time temperature data between [
 - **Requests** – for REST API interactions  
 - **SQLite** – for local data storage  
 - **WebDriver Manager** – for automatic ChromeDriver setup  
-- **Pytest** – for testing (optional)
 
 ---
 
